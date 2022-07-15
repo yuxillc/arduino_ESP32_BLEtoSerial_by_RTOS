@@ -1,0 +1,3 @@
+# arduino_ESP32_BLEtoSerial_by_RTOS
+arduino_ESP32_BLEtoSerial_by_RTOS
+design from example_ESP32_FreeRTOS
